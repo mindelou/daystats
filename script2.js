@@ -9,7 +9,7 @@ const notificationElement = document.querySelector(".notification");
 const weather = {};
 
 weather.temperature = {
-    unit : "celcius"
+    unit : "fahrenheit"
 }
 // App consts and var 
 const KELVIN = 273;    
