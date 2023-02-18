@@ -28,11 +28,11 @@ body{
     padding: 15px;
     margin: 0 auto;
     font-size: 1.2em;
-    color: #293251;
+    color: #424347;
 }
 
 .notification{
-    background-color: #f8d7da;
+    background-color: #424347;
     display: none;
 }
 
