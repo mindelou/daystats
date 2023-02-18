@@ -1,3 +1,4 @@
+const time = document.querySelector(".time");
 function displayTime() {
   var dateTime = new Date();
   var hrs = dateTime.getHours();
