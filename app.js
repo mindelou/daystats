@@ -6,7 +6,7 @@ document.getElementById("search-field").addEventListener("keypress", function (e
     });
 
     //api key
-const KEY = '629da55c6d95ad4cbca013af30e27fc5';
+const KEY = 'c7365ad529b35258113538c5e6855e87';
 const searchItems = () =>{
     const searchText =document.getElementById('search-field').value;
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${searchText}&units=metric&appid=${KEY}`
